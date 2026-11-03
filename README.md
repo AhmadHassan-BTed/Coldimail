@@ -19,6 +19,12 @@
 
 </div>
 
+ <p align="center">
+    <a href="https://trendshift.io/repositories/112567?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112567" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112567/daily?language=Python" alt="AhmadHassan-BTed%2FColdimail | Trendshift" width="250" height="55"/></a>
+   <a href="https://trendshift.io/repositories/112567?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112567" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112567/daily" alt="AhmadHassan-BTed%2FColdimail | Trendshift" width="250" height="55"/></a>
+   <a href="https://trendshift.io/repositories/112567?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-112567" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/112567/weekly?language=Python" alt="AhmadHassan-BTed%2FColdimail | Trendshift" width="250" height="55"/></a>
+  </p>
+
 ---
 
 ## ⏳ Launch Announcement: ~30 Days Remaining
